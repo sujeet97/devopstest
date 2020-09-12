@@ -15,4 +15,4 @@ log.check(raw_input("Enter Login ID:"),
         input("Enter password: "))
 
 print "Login Page"
-
+Modified login code
